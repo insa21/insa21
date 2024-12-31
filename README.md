@@ -92,7 +92,10 @@ Feel free to reach out if you want to collaborate or chat about tech!
 
 ## 🎉 Fun Section  
 
-[Snake animation](https://github.com/insa21/insa21/blob/output/github-contribution-grid-snake.svg)  
+![Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
 
 ---
 
