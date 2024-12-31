@@ -24,12 +24,9 @@ I am a **Fullstack Developer** with a passion for building innovative web applic
 <img src="https://github-readme-stats.vercel.app/api?username=insa21&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true" alt="insa21's GitHub Stats" width="50%"/>  
 <img src="https://streak-stats.demolab.com?user=insa21&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="45%"/>
 
----
 
 ### **🔥 Top Languages Used**  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insa21&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" width="50%"/>
-
----
 
 ### **📈 Contribution Activity Graph**  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=insa21&theme=tokyo-night" alt="GitHub Activity Graph" width="90%"/>
