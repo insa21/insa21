@@ -15,20 +15,40 @@ I am a **Fullstack Developer** with a passion for building innovative web applic
 - 📫 **Contact me**: [insa21@gmail.com](mailto:insa21@gmail.com)
 
 ---
-
 ## 📊 **My GitHub Stats Dashboard**
 
 <div align="center">
 
-### **🌟 Overall GitHub Stats**  
-<img src="https://github-readme-stats.vercel.app/api?username=insa21&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true" alt="insa21's GitHub Stats" width="50%"/>  
-<img src="https://streak-stats.demolab.com?user=insa21&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="45%"/>
+### 🌟 **Overall GitHub Stats**  
+<img src="https://github-readme-stats.vercel.app/api?username=insa21&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true" alt="insa21's GitHub Stats" width="48%"/>  
+<img src="https://streak-stats.demolab.com?user=insa21&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%"/>
 
+---
 
-### **🔥 Top Languages Used**  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insa21&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" width="50%"/>
+### 🔥 **Top Languages Used**  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insa21&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" width="48%"/>  
 
-### **📈 Contribution Activity Graph**  
+---
+
+### 📋 **GitHub Profile Details**  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=insa21&theme=tokyonight" alt="GitHub Profile Details" width="90%"/>
+
+---
+
+### 📊 **Repository Statistics**  
+<div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=insa21&theme=tokyonight&exclude=html,css" alt="Repository Languages" width="48%"/>  
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=insa21&theme=tokyonight&exclude=html,css" alt="Most Commit Language" width="48%"/>  
+</div>
+
+---
+
+### 🕒 **Productive Time**  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=insa21&theme=tokyonight&utcOffset=7" alt="Productive Time" width="48%"/>
+
+---
+
+### 📈 **Contribution Activity Graph**  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=insa21&theme=tokyo-night" alt="GitHub Activity Graph" width="90%"/>
 
 </div>
