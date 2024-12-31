@@ -16,22 +16,25 @@ I am a **Fullstack Developer** with a passion for building innovative web applic
 
 ---
 
-## 📊 My GitHub Stats  
+## 📊 **My GitHub Stats Dashboard**
 
-### **Overall GitHub Stats**  
-![insa21's GitHub stats](https://github-readme-stats.vercel.app/api?username=insa21&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true)
+<div align="center">
 
-### **Top Languages Used**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=insa21&layout=compact&theme=tokyonight&hide_title=true)
+### **🌟 Overall GitHub Stats**  
+<img src="https://github-readme-stats.vercel.app/api?username=insa21&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true" alt="insa21's GitHub Stats" width="50%"/>  
+<img src="https://streak-stats.demolab.com?user=insa21&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="45%"/>
 
-### **GitHub Streak**  
-![GitHub Streak](https://streak-stats.demolab.com?user=insa21&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+---
 
-### **Contribution Graph**  
-![Contribution Graph](https://git-graph.vercel.app/embed/insa21?showColorLegend=true&showWeekdayLabels=true&showMonthLabels=true&showTotalCount=true&blockMargin=3&blockRadius=6&blockSize=9&fontSize=14&weekStart=3&year=2024)
+### **🔥 Top Languages Used**  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insa21&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" width="50%"/>
 
-### **Activity Graph**  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=insa21&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+### **📈 Contribution Activity Graph**  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=insa21&theme=tokyo-night" alt="GitHub Activity Graph" width="90%"/>
+
+</div>
 
 ---
 ## 💻 Technologies & Tools  
