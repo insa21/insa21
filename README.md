@@ -18,10 +18,17 @@ I am a **Fullstack Developer** with a passion for building innovative web applic
 
 ## 📊 My GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=insa21&show_icons=true&theme=tokyonight)
+### **Overall GitHub Stats**  
+![insa21's GitHub stats](https://github-readme-stats.vercel.app/api?username=insa21&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true)
 
-### 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=insa21&theme=tokyonight&hide_border=true)
+### **Top Languages Used**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=insa21&layout=compact&theme=tokyonight&hide_title=true)
+
+### **GitHub Streak**  
+![GitHub Streak](https://streak-stats.demolab.com?user=insa21&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+### **Contribution Graph**  
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=insa21&theme=react-dark&hide_border=true)
 
 ---
 
@@ -85,7 +92,7 @@ Feel free to reach out if you want to collaborate or chat about tech!
 
 ## 🎉 Fun Section  
 
-![Snake Animation](https://github.com/insa21/insa21/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/insa21/insa21/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
