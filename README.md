@@ -9,7 +9,7 @@
 - 🔭 Currently working on: **Digital Library Project**  
 - 🌱 Learning: **Flask, AI Agents, and System Integration**  
 - 🎯 Goals: Contribute to Open Source and become a Fullstack Expert  
-- 📫 Reach me: [indra123@gmail.com](mailto:indra123@gmail.com)  
+- 📫 Reach me: [insa21@gmail.com](mailto:insa21@gmail.com)  
 
 ---
 
@@ -25,23 +25,22 @@
 
 ## 📊 GitHub Stats  
 
-![Indra's GitHub stats](https://github-readme-stats.vercel.app/api?username=indra123&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indra123&layout=compact&theme=radical)
+![insa21's GitHub stats](https://github-readme-stats.vercel.app/api?username=insa21&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insa21&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 Featured Projects  
 
-- 🌟 [Digital Library Project](https://github.com/indra123/digital-library)  
-- 💡 [AI Chatbot for Rudy Salon & Spa](https://github.com/indra123/ai-chatbot-rudy-salon)  
+- 🌟 [Digital Library Project](https://github.com/insa21/digital-library)  
+- 💡 [AI Chatbot for Rudy Salon & Spa](https://github.com/insa21/ai-chatbot-rudy-salon)  
 
 ---
 
 ## 🎉 Fun Section  
 
-![Snake animation](https://github.com/indra123/indra123/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/insa21/insa21/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ✨ **Let's build something amazing together!**
-
