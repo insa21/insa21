@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm **Indra**!  
-🎓 **Fresh Graduate in Information Systems & Informatics Engineering**  
-💻 Passionate about **Fullstack Development**, **AI**, and **Open Source**  
-🌍 Based in **Tasikmalaya, Indonesia**  
+🎓 **Fresh Graduate in Information Systems**  
+💻 Passionate about **Fullstack Development**, **AI**, **Cloud**, and **Mobile**  
+🌍 Based in **Tasikmalaya, Indonesia**
 
 ---
 ## 📝 About Me  
