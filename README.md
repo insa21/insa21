@@ -22,26 +22,25 @@ I am a **Fullstack Developer** with a passion for building innovative web applic
 ---
 
 ### 🌟 **Overall GitHub Stats**
-<img src="https://github-readme-stats.vercel.app/api?username=insa21&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true" alt="insa21's GitHub Stats" width="50%" />  
-<img src="https://streak-stats.demolab.com?user=insa21&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=insa21&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true" alt="insa21's GitHub Stats" width="35%"/>  
+<img src="https://streak-stats.demolab.com?user=insa21&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insa21&layout=compact&theme=tokyonight&hide_title=true" alt="Most Commit Language" width="30%" />
 
 ---
 
-### 📊 **Repository Statistics**
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=insa21&theme=tokyonight&exclude=html,css" alt="Repository Languages" width="37%" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insa21&layout=compact&theme=tokyonight&hide_title=true" alt="Most Commit Language" width="48%" />
+
+<div align="center">
+
+### 📈 **Contribution Activity & Profile Details**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=insa21&theme=tokyo-night" alt="GitHub Activity Graph" width="40%" style="display:inline-block;"/>  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=insa21&theme=tokyonight" alt="GitHub Profile Details" width="50%" style="display:inline-block;"/>
 
 ---
-
-### 📈 **Contribution Activity Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=insa21&theme=tokyo-night" alt="GitHub Activity Graph" width="90%" />
-
----
-
-### 📋 **GitHub Profile Details**
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=insa21&theme=tokyonight" alt="GitHub Profile Details" width="90%" />
 
 </div>
+
+</div>
+
 
 
 
