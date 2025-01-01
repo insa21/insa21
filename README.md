@@ -4,17 +4,17 @@
 🌍 Based in **Tasikmalaya, Indonesia**  
 
 ---
-
 ## 📝 About Me  
-I am a **Fullstack Developer** with a passion for building innovative web applications and exploring cutting-edge AI technologies. I am constantly learning and improving my skills to contribute to impactful projects and the open-source community.
+I am a **Fullstack Developer** with a passion for building innovative web applications and exploring cutting-edge technologies, including Web3 and AI. I am continuously learning and enhancing my skills to contribute to impactful projects and the open-source community.
 
-- 🔭 **Current Work**: Building a **Digital Library Project**  
-- 🌱 **Learning**: **Flask**, **AI Integration**, **Advanced Web Technologies**  
-- 🎯 **Goals**: Contribute to **Open Source**, Enhance my **Fullstack Skills**, and work on **AI Projects**  
-- ⚡ **Fun Fact**: I love watching **Donghua** and creating **AI-driven applications**  
-- 📫 **Contact me**: [insa21@gmail.com](mailto:insa21@gmail.com)
+- 🔭 **Current Work**: Freelancer  
+- 🌱 **Currently Learning**: Backend, Cloud, Web3, AI Integration, Advanced Web Technologies  
+- 🎯 **Goals**: Contribute to **Open Source**, Enhance **Fullstack Skills**, and work on **AI & Web3 Projects**  
+- ⚡ **Fun Fact**: I enjoy watching **Donghua** and creating **AI-based applications**  
+- 📫 **Contact Me**: [indrasaepudin212@gmail.com](mailto:indrasaepudin212@gmail.com)
 
 ---
+
 ## 🚀 **My GitHub Stats Dashboard**
 
 <div align="center">
@@ -22,27 +22,26 @@ I am a **Fullstack Developer** with a passion for building innovative web applic
 ---
 
 ### 🌟 **Overall GitHub Stats**
-<img src="https://github-readme-stats.vercel.app/api?username=insa21&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true" alt="insa21's GitHub Stats" width="35%"/>  
-<img src="https://streak-stats.demolab.com?user=insa21&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="30%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insa21&layout=compact&theme=tokyonight&hide_title=true" alt="Most Commit Language" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api?username=insa21&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true" alt="insa21's GitHub Stats" width="50%" />  
+<img src="https://streak-stats.demolab.com?user=insa21&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="45%" />
 
 ---
 
-
-<div align="center">
-
-### 📈 **Contribution Activity & Profile Details**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=insa21&theme=tokyo-night" alt="GitHub Activity Graph" width="40%" style="display:inline-block;"/>  
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=insa21&theme=tokyonight" alt="GitHub Profile Details" width="50%" style="display:inline-block;"/>
+### 📊 **Repository Statistics**
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=insa21&theme=tokyonight&exclude=html,css" alt="Repository Languages" width="37%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insa21&layout=compact&theme=tokyonight&hide_title=true" alt="Most Commit Language" width="48%" />
 
 ---
 
-</div>
+### 📈 **Contribution Activity Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=insa21&theme=tokyo-night" alt="GitHub Activity Graph" width="90%" />
+
+---
+
+### 📋 **GitHub Profile Details**
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=insa21&theme=tokyonight" alt="GitHub Profile Details" width="90%" />
 
 </div>
-
-
-
 
 ---
 ## 💻 Technologies & Tools  
@@ -67,28 +66,28 @@ I love working with modern technologies and frameworks! Here's what I use:
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
 Here are some of my projects that showcase my skills and creativity:
 
-- 🌟 **[Digital Library Project](https://github.com/insa21/digital-library)**  
-A platform for managing and sharing digital resources in an organized way.
+1. 🌟 **[InsanimeList](https://github.com/insa21/insanimelist)**  
+I developed a website called **InsanimeList** using Next.js, which allows users to search and browse various anime with features like searching by name, viewing anime details, and getting recommendations for similar anime.
 
-- 💡 **[AI Chatbot for Rudy Salon & Spa](https://github.com/insa21/ai-chatbot-rudy-salon)**  
-A customer support chatbot built to enhance customer experience using AI.
+2. 💡 **[Decision Support System (DSS) with PSI Method](https://github.com/insa21/MTS-PSI.git)**  
+I developed a **Decision Support System (DSS)** web app using the **Preference Selection Index (PSI)** method to calculate student achievement indices at **MTS Nur Iman Mlangi**. This app helps the school evaluate and assess students’ performance objectively.
 
-- 🚀 **[Flask + AI Integration App](https://github.com/insa21/flask-ai-app)**  
-A web app that demonstrates how Flask can integrate with AI models.
-
+3. 🤖 **[Psychology App with AI Technology](https://github.com/insa21/Aplikasi-Psikologi-Menggunakan-Kecerdasan-Buatan-AI-)**  
+I developed a psychology app that leverages **artificial intelligence (AI)** for features like **chatbot** and **emotion detection**, along with various unique features to enhance the user experience in mental health.
 ---
 
 ## 📚 Learning & Growth  
 
 Currently, I am focusing on the following areas:
 
-- Fullstack Web Development  
-- Artificial Intelligence and Machine Learning  
-- System Integration and Automation  
+- 🌐 **Fullstack Web Development**: Crafting seamless, dynamic web experiences from front-end to back-end.  
+- 🚀 **Web3**: Exploring the decentralized future with blockchain technology and smart contracts.  
+- 🤖 **Artificial Intelligence & Machine Learning**: Creating intelligent systems that learn and evolve for smarter solutions.  
+- ☁️ **Cloud**: Building scalable and reliable applications with cloud computing.
 
 I am always looking for new challenges and opportunities to learn.
 
@@ -98,24 +97,20 @@ I am always looking for new challenges and opportunities to learn.
 
 Feel free to reach out if you want to collaborate or chat about tech!  
 
-- 📧 Email: [insa21@gmail.com](mailto:insa21@gmail.com)  
-- 🌐 LinkedIn: [Indra LinkedIn](https://linkedin.com/in/insa21)  
-- 🐦 Twitter: [@insa21](https://twitter.com/insa21)
+- 📧 Email: [indrasaepudin212@gmail.com](mailto:indrasaepudin212@gmail.com)  
+- 🌐 LinkedIn: [Indra LinkedIn](https://www.linkedin.com/in/indrasaepudin21/)  
+- 📸 Instagram: [@insa21](https://instagram.com/_insa21)  
 
 ---
-
 ## 🎉 Fun Section  
 
+### 🐍 GitHub Contribution Snake  
 ![Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-
-- **Random Dev Quote**  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
----
----
-
+### 💡 Random Developer Quote  
+> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 
 ✨ **Let’s build something amazing together!**
